@@ -6,4 +6,4 @@ aaaa
 bbbb
 cccc
 Creating a new branch is quick & simple.
-new & new
+new and new
