@@ -7,4 +7,4 @@ bbbb
 cccc
 Creating a new branch is quick & simple.
 master
-new And new
+new & new
